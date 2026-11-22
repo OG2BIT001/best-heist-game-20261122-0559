@@ -1,7 +1,6 @@
-[![make.fun](https://make.fun/badge/competition/best-heist-game-20261122-0559)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![rank](https://make.fun/badge/rank/OG2BIT001/best-heist-game-20261122-0559)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![reward](https://make.fun/badge/reward/best-heist-game-20261122-0559)](https://make.fun/bounty/best-heist-game-20261122-0559)
-# Aurum Heist — The Midnight Vault
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/OG2BIT001/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/OG2BIT001/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A complete, original top-down heist game for the make.fun
 `best-heist-game-20261122-0559` bounty. You are Rook, a thief inside the Aurum
